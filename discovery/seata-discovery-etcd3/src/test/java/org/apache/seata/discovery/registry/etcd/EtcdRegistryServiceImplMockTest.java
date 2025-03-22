@@ -96,6 +96,7 @@ public class EtcdRegistryServiceImplMockTest {
 
     private final static String HOST = "127.0.0.1";
     private final static int PORT = 8091;
+    // cluster name
     private static final String CLUSTER_NAME = "default";
 
     @BeforeEach
